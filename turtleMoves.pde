@@ -278,7 +278,7 @@ Instruction instructionFromString(String s) throws Exception{
   ArrayList<Instruction> instructions;
   Turtle turtle;
   PApplet app;
-  int timeStep = 800;
+  int timeStep = 200;
   boolean isPlaying;
   long  startPTime;
   int curI = -1;
